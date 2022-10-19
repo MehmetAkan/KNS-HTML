@@ -1,0 +1,11 @@
+<svg id="youtube" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25.364" height="18" viewBox="0 0 25.364 18">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H25.364V18H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <path id="Clip_2-2" data-name="Clip 2" d="M0,0H25.364V18H0Z" fill="none"/>
+  <g id="Group_3" data-name="Group 3" clip-path="url(#clip-path)">
+    <path id="Fill_1" data-name="Fill 1" d="M12.682,18c-.079,0-7.941-.006-9.924-.551A3.2,3.2,0,0,1,.522,15.184,34.474,34.474,0,0,1,0,9,34.593,34.593,0,0,1,.522,2.817,3.276,3.276,0,0,1,2.758.529C4.719.006,12.6,0,12.682,0s7.962.006,9.923.551a3.2,3.2,0,0,1,2.236,2.266,32.793,32.793,0,0,1,.523,6.2,34.593,34.593,0,0,1-.522,6.183,3.2,3.2,0,0,1-2.236,2.266C20.643,17.994,12.761,18,12.682,18ZM10.154,5.146v7.708L16.756,9Z" fill="#939393"/>
+  </g>
+</svg>

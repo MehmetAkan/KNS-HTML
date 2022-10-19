@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.886" height="32.628" viewBox="0 0 35.886 32.628">
+  <g id="call-black" transform="translate(-0.4 -0.222)">
+    <path id="Shape" d="M8.155,32.628a2.447,2.447,0,0,1-2.446-2.45V27.552A7.306,7.306,0,0,1,0,20.39V7.341A7.349,7.349,0,0,1,7.341,0H28.547a7.349,7.349,0,0,1,7.34,7.341V20.39a7.349,7.349,0,0,1-7.34,7.341H14.6L9.787,32A2.443,2.443,0,0,1,8.155,32.628ZM7.341,2.447A4.9,4.9,0,0,0,2.447,7.341V20.39a4.9,4.9,0,0,0,4.894,4.894h.815v4.894l5.506-4.894H28.547a4.9,4.9,0,0,0,4.894-4.894V7.341a4.9,4.9,0,0,0-4.894-4.894Z" transform="translate(0.4 0.222)" fill="#2a2a2a"/>
+    <circle id="Oval" cx="1.223" cy="1.223" r="1.223" transform="translate(17.12 12.864)" fill="#2a2a2a"/>
+    <circle id="Oval-2" data-name="Oval" cx="1.223" cy="1.223" r="1.223" transform="translate(25.276 12.864)" fill="#2a2a2a"/>
+    <circle id="Oval-3" data-name="Oval" cx="1.223" cy="1.223" r="1.223" transform="translate(9.062 12.864)" fill="#2a2a2a"/>
+  </g>
+</svg>

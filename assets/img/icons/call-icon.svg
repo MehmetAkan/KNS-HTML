@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.444" height="22.224" viewBox="0 0 24.444 22.224">
+  <g id="call-icon" transform="translate(-0.4 -0.222)">
+    <path id="Shape" d="M5.555,22.224a1.667,1.667,0,0,1-1.666-1.668V18.767A4.977,4.977,0,0,1,0,13.889V5A5.006,5.006,0,0,1,5,0H19.445a5.006,5.006,0,0,1,5,5v8.888a5.006,5.006,0,0,1-5,5h-9.5L6.666,21.8A1.664,1.664,0,0,1,5.555,22.224ZM5,1.667A3.337,3.337,0,0,0,1.667,5v8.888A3.337,3.337,0,0,0,5,17.222h.555v3.334l3.75-3.334H19.445a3.337,3.337,0,0,0,3.334-3.334V5a3.337,3.337,0,0,0-3.334-3.334Z" transform="translate(0.4 0.222)" fill="#fff"/>
+    <circle id="Oval" cx="0.833" cy="0.833" r="0.833" transform="translate(11.789 8.833)" fill="#fff"/>
+    <circle id="Oval-2" data-name="Oval" cx="0.833" cy="0.833" r="0.833" transform="translate(17.344 8.833)" fill="#fff"/>
+    <circle id="Oval-3" data-name="Oval" cx="0.833" cy="0.833" r="0.833" transform="translate(6.3 8.833)" fill="#fff"/>
+  </g>
+</svg>
